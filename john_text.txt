@@ -4,3 +4,5 @@ Adding a line from john`s repo
 
 Incorporating John changes as well as updating my changes.
 
+Adding some lines of text from Amber`s repository and do not wish to merge changes until explicitly run the merge command.
+
